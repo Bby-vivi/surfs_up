@@ -27,5 +27,5 @@ Maximum value
 ![Dec temps](https://user-images.githubusercontent.com/114452770/206334972-6eb2c515-9ee9-4718-a70c-c079ac9ea071.PNG)
 
 ## Summary
->
+>Based on the data analysis both the months has an average of 70 degrees weather. However, June was the more desirable month for ideal weather. Furthermore, both months still have temperature to make the Surf shop to be successful.
 
