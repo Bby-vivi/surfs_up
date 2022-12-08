@@ -1,2 +1,10 @@
-# surfs_up
-Jupyter Notebook,/VS Code
+# Surfs_up
+
+## Overview of the statistical analysis
+>
+
+## Results
+>
+
+## Summary
+>
